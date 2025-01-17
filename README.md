@@ -2,9 +2,9 @@
 
 **Memorized Q&A Simulator** is a small-scale, educational demonstration of some core ideas behind Transformer-based language models. In this project, we simulate a toy Transformer Q&A model that "memorizes" a set of explicitly formatted multi‑line Q&A examples. While it does not generalize or truly reason, it serves as a simplified showcase of many underlying concepts found in state-of-the-art LLMs.
 
-<img width="1232" alt="Screenshot 2025-01-17 at 9 32 31 AM" src="https://github.com/user-attachments/assets/d91de9da-2ada-4aff-8503-9411b405d15b" />
+<img width="955" alt="Screenshot 2025-01-17 at 9 37 57 AM" src="https://github.com/user-attachments/assets/618207be-25e1-480d-ae9c-8f4f57241825" />
 
-<img width="1232" alt="Screenshot 2025-01-17 at 9 32 52 AM" src="https://github.com/user-attachments/assets/d03289f2-8250-4996-923c-33351aa9a635" />
+<img width="955" alt="Screenshot 2025-01-17 at 9 38 15 AM" src="https://github.com/user-attachments/assets/a992cc17-e494-405c-a240-6dd3ce80662b" />
 
 
 ## Overview
